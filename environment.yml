@@ -1,0 +1,16 @@
+name: entitylink
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8.3
+  - pip==20.3.2
+  - pip:
+    - jupyter==1.0.0
+    - pandas==1.1.5
+    - rdflib==5.0.0
+    - spacy==2.3.5
+    - spacy-transformers==0.6.2
+    - stanford-openie==1.0.1
+    - stanfordnlp==0.2.0
+    - transformers==2.8.0
