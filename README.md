@@ -1,4 +1,4 @@
-# Entity_Linking
+# KnowledgeGraph_Builder
 Constructing Knowledge Graphs from Unstructured Text
 
 Setup:
