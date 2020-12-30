@@ -1,0 +1,18 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Anakin Skywalker, is ,O, also important character
+ORG,Anakin Skywalker, is ,O, character
+ORG,Anakin Skywalker, is ,O, also character
+ORG,Anakin Skywalker, is fictional character ,O, Vader appears in film trilogy
+ORG,Anakin Skywalker, is fictional character ,O, Vader appears in original film trilogy
+ORG,Anakin Skywalker, is ,O, important character
+ORG,Anakin Skywalker, is fictional character ,O, in Star Wars franchise appears in original film trilogy
+ORG,Anakin Skywalker, is also character in ,O, Star Wars
+ORG,Anakin Skywalker, is fictional character ,O, Vader appears
+ORG,Anakin Skywalker, is important character in ,O, Star Wars
+ORG,Anakin Skywalker, is also important character in ,O, Star Wars
+ORG,Anakin Skywalker, is character in ,O, Star Wars
+ORG,Anakin Skywalker, is fictional character ,O, in Star Wars franchise appears in film trilogy
+ORG,Anakin Skywalker, is fictional character ,O, in Star Wars franchise appears
+ORG,Anakin Skywalker, is fictional character ,O, appears in original film trilogy
+ORG,Anakin Skywalker, is fictional character ,O, appears in film trilogy
+ORG,Anakin Skywalker, is fictional character ,O, appears
