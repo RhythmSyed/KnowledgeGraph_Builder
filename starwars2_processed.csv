@@ -1,0 +1,19 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Chewbacca,is,ORG,portrayed by Peter Mayhew in Star Wars from III to VIII
+PERSON,Chewbacca,is,PERSON,portrayed by Peter Mayhew in Star Wars from III to VIII
+ORG,Mayhew,shares role with,O,his body
+ORG,Mayhew,shares role on,O,Episode VII
+PERSON,Chewbacca,is,ORG,portrayed by Peter Mayhew in Star Wars on Episodes
+PRODUCT,Wookiee,is in,O,Star Wars franchise
+PERSON,Chewbacca,nicknamed,O,Chewie
+PERSON,Chewbacca,is portrayed by,ORG,Peter Mayhew
+PERSON,Chewbacca,is,ORG,portrayed by Peter Mayhew in Star Wars on Episodes from III to VIII
+PERSON,Chewbacca,is,PERSON,portrayed by Peter Mayhew in Star Wars on Episodes from III to VIII
+PERSON,Chewbacca,is,ORG,portrayed by Peter Mayhew from III to VIII
+PERSON,Chewbacca,is,PERSON,portrayed by Peter Mayhew from III to VIII
+ORG,Mayhew,shares,O,role
+PERSON,Chewbacca,is,ORG,portrayed by Peter Mayhew in Star Wars
+ORG,Suotamo,took over,O,role
+ORG,Suotamo,took over,O,role alone
+ORG,Suotamo,took over,O,role in Solo
+ORG,Suotamo,took over,O,role alone in Solo

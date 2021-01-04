@@ -1,0 +1,16 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Anakin Skywalker,is,O,fictional character
+PRODUCT,Rogue One,is,O,heavily referenced
+PRODUCT,Rogue One,is,O,heavily referenced in Star Wars
+PRODUCT,Rogue One,is,O,referenced
+PRODUCT,Rogue One,is,O,referenced in Star Wars
+PERSON,Anakin Skywalker,is,O,also important character
+PERSON,Anakin Skywalker,is character in,O,Star Wars
+PERSON,Anakin Skywalker,is,O,character
+PERSON,Anakin Skywalker,is,O,also character
+PERSON,Anakin Skywalker,is,O,important character
+PERSON,Anakin Skywalker,is important character in,O,Star Wars
+PERSON,Anakin Skywalker,is also important character in,O,Star Wars
+PERSON,Anakin Skywalker,is also character in,O,Star Wars
+PERSON,Jedi,bring,O,balance
+PERSON,Jedi,bring balance to,ORG,Force
