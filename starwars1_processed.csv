@@ -1,0 +1,37 @@
+Type,Entity1,Relationship,Type,Entity2
+PERSON,Anakin Skywalker,is fictional character in,WORK_OF_ART,Star Wars franchise
+PERSON,Anakin Skywalker,is,O,fictional character
+PERSON,Anakin Skywalker,appears as,O,pivotal antagonist
+PERSON,Anakin Skywalker,appears in,O,film trilogy
+PERSON,Anakin Skywalker,appears,O,central to narrative of prequel trilogy
+PERSON,Anakin Skywalker,appears,O,central
+PERSON,Anakin Skywalker,appears,O,central to narrative
+PERSON,Anakin Skywalker,appears as,O,antagonist
+PERSON,Anakin Skywalker,appears,O,while central
+PERSON,Anakin Skywalker,appears,O,while central to narrative
+PERSON,Anakin Skywalker,appears,O,while central to narrative of prequel trilogy
+PERSON,Anakin Skywalker,appears in,O,original film trilogy
+PERSON,Anakin Skywalker,was created by,PERSON,George Lucas
+PERSON,Anakin Skywalker,been portrayed by,O,numerous actors
+PERSON,Anakin Skywalker,been portrayed by,O,actors
+PRODUCT,Rogue One,is,O,heavily referenced
+PRODUCT,Rogue One,is,WORK_OF_ART,heavily referenced in Star Wars
+PRODUCT,Rogue One,is,O,referenced
+PRODUCT,Rogue One,is,WORK_OF_ART,referenced in Star Wars
+PERSON,Anakin Skywalker,is,O,also important character
+PERSON,Anakin Skywalker,is character in,WORK_OF_ART,Star Wars
+PERSON,Anakin Skywalker,is,O,character
+PERSON,Anakin Skywalker,is,O,also character
+PERSON,Anakin Skywalker,is,O,important character
+PERSON,Anakin Skywalker,is also important character in,WORK_OF_ART,Star Wars
+PERSON,Anakin Skywalker,is important character in,WORK_OF_ART,Star Wars
+PERSON,Anakin Skywalker,is also character in,WORK_OF_ART,Star Wars
+PERSON,Jedi,serves,O,Galactic Empire
+PERSON,Jedi,bring balance to,PERSON,Anakin Skywalker
+PERSON,Jedi,bring,O,balance
+PERSON,Jedi,serves,O,evil Galactic Empire
+PERSON,Jedi,bring balance to,ORG,Force
+PERSON,Jedi,serves Galactic Empire at,PRODUCT,right hand of his Sith master
+PERSON,Jedi,serves Galactic Empire at,O,hand
+PERSON,Jedi,serves Galactic Empire at,PRODUCT,hand of his Sith master
+PERSON,Jedi,serves Galactic Empire at,O,right hand
