@@ -4,8 +4,8 @@
 
 
 ## High-Level Pipeline
-* Add figure here
 ![pipeline](diagram.png)
+- will updated^^
 
 
 ## Requirements
