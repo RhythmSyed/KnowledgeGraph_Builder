@@ -19,9 +19,9 @@
 
 
 ## Setup
-1. Create new conda environment:
-   `conda env create -f environment.yml
-2. Activate environment:
+1. Create new conda environment:\
+   `conda env create -f environment.yml`
+2. Activate environment:\
    `conda activate entitylink`
 
 
