@@ -15,6 +15,17 @@
 - `stanford-corenlp`
 - `json`
 - `nltk`
+- `[miniconda][https://docs.conda.io/en/latest/miniconda.html]`
+
+
+## Setup
+1. Create new conda environment:
+   `conda env create -f environment.yml
+2. Activate environment:
+   `conda activate entitylink`
+
+
+
 
 
 Setup:
