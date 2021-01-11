@@ -7,9 +7,15 @@
 * Add figure here
 
 
-## Prerequisites
+## Requirements
 
 - `python >=3.7`
+- `spacy`
+- `pandas`
+- `stanford-corenlp`
+- `json`
+- `nltk`
+
 
 Setup:
 * conda env create -f environment.yml
