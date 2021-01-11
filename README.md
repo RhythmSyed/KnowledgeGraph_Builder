@@ -40,3 +40,5 @@ Example notebooks can be found under the `notebooks` folder which contain
 - Notebook_SpaCy_Parsing_OpenIE_BERT_Evaluation.ipynb
 - Add more notebooks as necessary
 
+
+For more information on this project, check out the [Wiki](https://github.com/RhythmSyed/KnowledgeGraph_Builder/wiki).
