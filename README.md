@@ -30,7 +30,8 @@
 ## Usage
 1. Add text of your choice in input.txt
 2. Run `python text_to_graph.py input.txt`
-3. Output will be `output_processed.csv`, containing triples of (entity1, relation, entity2)
+3. Output will be `output_processed.csv`, containing triples of (entity1, relation, entity2)\
+An example of an input and output is included in `examples`
 
 
 ## Example Notebooks
