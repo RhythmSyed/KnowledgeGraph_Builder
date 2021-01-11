@@ -23,6 +23,8 @@
    `conda env create -f environment.yml`
 2. Activate environment:\
    `conda activate entitylink`
+3. Download CoreNLP 4.2.0 and place in root folder of this repo:\
+   `https://stanfordnlp.github.io/CoreNLP/download.html`
 
 
 
