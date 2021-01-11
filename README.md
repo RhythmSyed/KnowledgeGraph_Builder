@@ -24,14 +24,18 @@
 2. Activate environment:\
    `conda activate entitylink`
 3. Download CoreNLP 4.2.0 and place in root folder of this repo:\
-   `https://stanfordnlp.github.io/CoreNLP/download.html`
+   [`https://stanfordnlp.github.io/CoreNLP/download.html`](https://stanfordnlp.github.io/CoreNLP/download.html)
+   
+
+## Usage
+1. Add text of your choice in input.txt
+2. Run `python text_to_graph.py input.txt`
+3. Output will be `output_processed.csv`, containing triples of (entity1, relation, entity2)
 
 
+## Example Notebooks
+Example notebooks can be found under the notebooks folder which contain\
+- Notebook_Text_to_Graph_Pipeline.ipynb
+- Notebook_SpaCy_Parsing_OpenIE_BERT_Evaluation.ipynb
+- Add more notebooks as necessary
 
-
-
-Setup:
-* conda env create -f environment.yml
-* conda activate entitylink
-
-* install stanford-corenlp-4.2.0 for Open Information Extraction
