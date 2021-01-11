@@ -131,3 +131,5 @@ dmypy.json
 # Stanford CoreNLP Dependencies
 stanford-corenlp-4.2.0/
 stanford-ner-2018-10-16/
+
+.DS_Store
