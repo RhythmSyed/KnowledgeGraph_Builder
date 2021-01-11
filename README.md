@@ -8,10 +8,10 @@
 - Need to update^^
 
 ## Example
-**Input Text**: 
+**Input Text**:\
 Darth Vader, also known by his birth name Anakin Skywalker, is a fictional character in the Star Wars franchise. Darth Vader appears in the original film trilogy as a pivotal antagonist whose actions drive the plot, while his past as Anakin Skywalker and the story of his corruption are central to the narrative of the prequel trilogy. The character was created by George Lucas and has been portrayed by numerous actors. His appearances span the first six Star Wars films, as well as Rogue One, and his character is heavily referenced in Star Wars: The Force Awakens. He is also an important character in the Star Wars expanded universe of television series, video games, novels, literature and comic books. Originally a Jedi who was prophesied to bring balance to the Force, he falls to the dark side of the Force and serves the evil Galactic Empire at the right hand of his Sith master, Emperor Palpatine (also known as Darth Sidious).
 
-**Output Graph**:
+**Output Graph**:\
 ![graph](examples/graph_example.gif)
 
 ## Requirements
