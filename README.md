@@ -5,6 +5,7 @@
 
 ## High-Level Pipeline
 * Add figure here
+![pipeline](diagram.png)
 
 
 ## Requirements
