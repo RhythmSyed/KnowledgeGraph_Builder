@@ -15,7 +15,7 @@
 - `stanford-corenlp`
 - `json`
 - `nltk`
-- [miniconda][https://docs.conda.io/en/latest/miniconda.html]
+- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 
 ## Setup
