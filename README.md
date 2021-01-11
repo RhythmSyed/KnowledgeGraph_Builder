@@ -5,7 +5,7 @@
 
 ## High-Level Pipeline
 ![pipeline](diagram.png)
-- will updated^^
+- Need to update^^
 
 
 ## Requirements
