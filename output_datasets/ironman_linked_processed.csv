@@ -1,0 +1,43 @@
+Type1,Entity1,Relationship,Type2,Entity2
+Node,Iron Man,is,Node,fictional superhero appearing in American comic books published by Marvel Comics
+Node,Iron Man,is,Node,fictional superhero appearing
+Node,first,is in,Node,Tales of Suspense # 39
+Node,Stark,suffers,Node,severe chest injury
+Node,Stark,suffers chest injury during,Node,kidnapping.When
+Node,Stark,adding,Node,weapons
+Node,Stark,Later develops,Node,his true identity
+Node,Stark,adding,Node,other devices
+Node,Stark,develops,Node,his true identity
+Node,Stark,adding,Node,other technological devices
+Node,Stark,first concealing,Node,his true identity
+Node,Stark,eventually reveals,Node,himself
+Node,Stark,concealing,Node,his true identity
+Node,Stark,publicly reveals,Node,himself
+Node,Stark,eventually publicly reveals,Node,himself
+Node,Stark,reveals,Node,himself
+Node,Stan Lee,explore,Node,particularly role of American technology in fight against communism
+Node,Stan Lee,role in,Node,fight against communism
+Node,Stan Lee,explore,Node,particularly role in fight
+Node,Iron Man,was,Node,Initially vehicle
+Node,Stan Lee,explore,Node,role
+Node,Stan Lee,particularly role in,Node,fight
+Node,Stan Lee,role of,Node,American technology
+Node,Stan Lee,particularly role of,Node,American technology
+Node,Stan Lee,explore,Node,role of American technology
+Node,Iron Man,was,Node,vehicle
+Node,Stan Lee,particularly role in,Node,fight against communism
+Node,Stan Lee,role of,Node,technology
+Node,Stan Lee,role in,Node,fight
+Node,Stan Lee,explore,Node,Cold War themes
+Node,Stan Lee,particularly role of,Node,technology
+Node,Stan Lee,explore,Node,particularly role
+Node,Iron Man,has,Node,Throughout most of character publication history has founding member of superhero team
+Node,Iron Man,been featured in,Node,several incarnations of his own various comic book series
+Node,Iron Man,has,Node,Throughout most has founding member
+Node,Iron Man,been featured in,Node,several incarnations
+Node,Iron Man,been,Node,featured
+Node,Iron Man,has,Node,has adapted for several animated TV shows
+Node,Iron Man,has,Node,has adapted
+Node,Ultron,of Age is,Node,Captain America
+Node,Hulk,is in,Node,featured
+Node,2019,is in,Node,upcoming Black Widow

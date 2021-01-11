@@ -1,0 +1,25 @@
+Type1,Entity1,Relationship,Type2,Entity2
+PERSON,Anakin Skywalker,is fictional character in,O,first six Star Wars films
+PERSON,Anakin Skywalker,is,O,also important character
+PERSON,Anakin Skywalker,appears as,O,pivotal antagonist
+PERSON,Anakin Skywalker,appears in,O,original film trilogy
+PERSON,Anakin Skywalker,appears,O,central to narrative of prequel trilogy
+PERSON,Anakin Skywalker,appears,O,antagonist
+PERSON,Anakin Skywalker,appears,O,central to narrative
+PERSON,Anakin Skywalker,appears as,O,antagonist
+PERSON,Anakin Skywalker,was created by,O,George Lucas
+PERSON,Anakin Skywalker,been portrayed by,O,numerous actors
+PERSON,Anakin Skywalker,was,O,antagonist
+PERSON,Anakin Skywalker,been,O,antagonist
+PERSON,Anakin Skywalker,span,O,Rogue One
+PERSON,Anakin Skywalker,span,O,first six Star Wars films
+PERSON,Anakin Skywalker,is character in,O,first six Star Wars films
+PERSON,Anakin Skywalker,is,O,antagonist
+PERSON,Anakin Skywalker,is also character in,O,first six Star Wars films
+PERSON,Jedi,falls to,O,dark side
+PERSON,Jedi,serves,O,evil Galactic Empire
+PERSON,Jedi,falls to,O,dark side of Force
+PERSON,Jedi,falls to,O,antagonist
+PERSON,Jedi,serves Galactic Empire at,O,right hand of his Sith master
+PERSON,Jedi,serves Galactic Empire at,O,antagonist
+PERSON,Jedi,serves Galactic Empire at,O,right hand
