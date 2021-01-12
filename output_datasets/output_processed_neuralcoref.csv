@@ -1,0 +1,42 @@
+Type1,Entity1,Relationship,Type2,Entity2
+Node,Darth Vader,is,Node,fictional character
+Node,fictional character,is in,Node,Star Wars
+Node,Darth Vader,is fictional character in,Node,Star Wars
+Node,Darth Vader,also known by,Node,Darth Vader birth name Anakin Skywalker
+Node,Darth Vader,known by,Node,Darth Vader birth name Anakin Skywalker
+Node,Darth Vader,appears as,Node,pivotal antagonist
+Node,Darth Vader,appears as,Node,antagonist
+Node,Darth Vader,appears in,Node,film trilogy
+Node,Darth Vader,are central to,Node,narrative of original film trilogy
+Node,Darth Vader,are central to,Node,narrative
+Node,actions,drive plot,Node,central to narrative
+Node,actions,drive plot,Node,central
+Node,Darth Vader,are,Node,central
+Node,Darth Vader,are central to,Node,film trilogy
+Node,actions,drive,Node,plot
+Node,character,been portrayed by,Node,actors
+Node,character,was,Node,created
+Node,character,been,Node,portrayed
+Node,character,was created by,Node,George Lucas
+Node,character,been portrayed by,Node,numerous actors
+Node,character appearances,span,Node,Star Wars
+Node,character appearances,span,Node,first six Star Wars films
+Node,character appearances,span,Node,Rogue One
+Node,character,is referenced in,Node,Star Wars
+Node,character,is heavily referenced in,Node,Star Wars
+Node,character,is,Node,referenced
+Node,character,is,Node,heavily referenced
+Node,character,is also character in,Node,Star Wars
+Node,character,is,Node,also character
+Node,character,is,Node,important character
+Node,important character,is in,Node,Star Wars
+Node,character,is,Node,important
+Node,character,is,Node,character
+Node,character,is character in,Node,Star Wars
+Node,character,falls to,Node,side
+Node,character,serves,Node,Galactic Empire
+Node,character,falls to,Node,side of Force
+Node,character,serves Galactic Empire at,Node,hand of character Sith master
+Node,character,serves Galactic Empire at,Node,right hand
+Node,character,serves Galactic Empire at,Node,hand
+Node,character,falls to,Node,dark side

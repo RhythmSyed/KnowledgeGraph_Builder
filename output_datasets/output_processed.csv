@@ -1,0 +1,41 @@
+Type1,Entity1,Relationship,Type2,Entity2
+Node,Anakin Skywalker,is fictional character in,Node,Star Wars
+Node,Anakin Skywalker,is,Node,fictional character
+Node,fictional character,is in,Node,Star Wars
+Node,Anakin Skywalker,appears as,Node,pivotal antagonist
+Node,Anakin Skywalker,appears in,Node,film trilogy
+Node,Anakin Skywalker,appears,Node,central to narrative of prequel trilogy
+Node,Anakin Skywalker,appears,Node,central
+Node,Anakin Skywalker,appears,Node,central to narrative
+Node,Anakin Skywalker,appears as,Node,antagonist
+Node,his past,are central to,Node,narrative of prequel trilogy
+Node,his past,are central to,Node,narrative
+Node,actions,drive,Node,plot
+Node,his past,are,Node,central
+Node,Anakin Skywalker,was created by,Node,George Lucas
+Node,Anakin Skywalker,been portrayed by,Node,numerous actors
+Node,Anakin Skywalker,was,Node,created
+Node,Anakin Skywalker,been portrayed by,Node,actors
+Node,Anakin Skywalker,been,Node,portrayed
+Node,Anakin Skywalker,span,Node,Rogue One
+Node,his character,is heavily referenced in,Node,Star Wars
+Node,his character,is,Node,heavily referenced
+Node,his character,is referenced in,Node,Star Wars
+Node,Anakin Skywalker,span,Node,first six Star Wars films
+Node,his character,is,Node,referenced
+Node,Anakin Skywalker,span,Node,Star Wars
+Node,Anakin Skywalker,is,Node,important character
+Node,Anakin Skywalker,is character in,Node,Star Wars
+Node,important character,is in,Node,Star Wars
+Node,Anakin Skywalker,is,Node,character
+Node,Anakin Skywalker,is,Node,also character
+Node,Skywalker,is,Node,important
+Node,Anakin Skywalker,is also character in,Node,Star Wars
+Node,Jedi,falls to,Node,dark side
+Node,Jedi,serves,Node,Galactic Empire
+Node,Jedi,falls to,Node,side of Force
+Node,Jedi,falls to,Node,side
+Node,Jedi,serves Galactic Empire at,Node,hand of his Sith master
+Node,his,master,Node,Emperor Palpatine
+Node,Jedi,serves Galactic Empire at,Node,hand
+Node,Jedi,serves Galactic Empire at,Node,right hand

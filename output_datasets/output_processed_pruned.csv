@@ -1,0 +1,20 @@
+Type1,Entity1,Relationship,Type2,Entity2
+Node,Anakin Skywalker,is fictional character in,Node,Star Wars franchise
+Node,Anakin Skywalker,is,Node,fictional character
+Node,Anakin Skywalker,appears as,Node,pivotal antagonist
+Node,Anakin Skywalker,appears in,Node,original film trilogy
+Node,Anakin Skywalker,appears,Node,central to narrative of prequel trilogy
+Node,Anakin Skywalker,appears,Node,central
+Node,Anakin Skywalker,appears,Node,central to narrative
+Node,Anakin Skywalker,appears as,Node,antagonist
+Node,Anakin Skywalker,was created by,Node,George Lucas
+Node,Anakin Skywalker,been portrayed by,Node,numerous actors
+Node,Anakin Skywalker,was,Node,created
+Node,Anakin Skywalker,been portrayed by,Node,actors
+Node,Anakin Skywalker,been,Node,portrayed
+Node,Anakin Skywalker,span,Node,Rogue One
+Node,Anakin Skywalker,span,Node,first six Star Wars films
+Node,Anakin Skywalker,is,Node,also important character
+Node,Anakin Skywalker,is character in,Node,Star Wars franchise
+Node,Anakin Skywalker,is,Node,character
+Node,Anakin Skywalker,is also character in,Node,Star Wars franchise
