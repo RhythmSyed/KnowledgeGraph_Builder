@@ -49,4 +49,4 @@ Example notebooks can be found under the `notebooks` folder which contain
 - Add more notebooks as necessary
 
 
-For more information on this project, check out the [Wiki](https://github.com/RhythmSyed/KnowledgeGraph_Builder/wiki).
+For more information on this project, check out the [Wiki](https://github.com/RhythmSyed/KnowledgeGraph_Builder/wiki/Supporting-Information).
