@@ -5,7 +5,6 @@
 
 ## High-Level Pipeline
 ![pipeline](diagram.png)
-- Need to update^^
 
 ## Example
 **Input Text**:\
