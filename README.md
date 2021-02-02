@@ -43,9 +43,12 @@ An example of an input and output is included in the `examples` folder
 
 ## Example Notebooks
 Example notebooks can be found under the `notebooks` folder which contain
+- NER_Evaluation.ipynb
+- CoRef_Evaluation.ipynb
+- Relation_Extraction.ipynb
+- EntityLinking_Evaluation.ipynb
 - Notebook_Text_to_Graph_Pipeline.ipynb
 - Notebook_SpaCy_Parsing_OpenIE_BERT_Evaluation.ipynb
-- Add more notebooks as necessary
 
 
 For more information on this project, check out the [Wiki](https://github.com/RhythmSyed/KnowledgeGraph_Builder/wiki/Supporting-Information).
