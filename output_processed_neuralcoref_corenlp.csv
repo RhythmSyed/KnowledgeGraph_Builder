@@ -1,0 +1,40 @@
+Type1,Entity1,Relationship,Type2,Entity2
+Node,Anakin Skywalker,is fictional character in,Node,Star Wars
+Node,Anakin Skywalker,is,Node,fictional character
+Node,fictional character,is in,Node,Star Wars
+Node,Anakin Skywalker,appears as,Node,pivotal antagonist
+Node,Anakin Skywalker,appears in,Node,film trilogy
+Node,Anakin Skywalker,are,Node,central
+Node,Anakin Skywalker,are central to,Node,narrative
+Node,Anakin Skywalker,are central to,Node,narrative of film trilogy
+Node,Anakin Skywalker,appears as,Node,antagonist
+Node,actions,drive plot,Node,central to narrative of film trilogy
+Node,actions,drive plot,Node,central
+Node,actions,drive plot,Node,central to narrative
+Node,actions,drive,Node,plot
+Node,Anakin Skywalker,was created by,Node,George Lucas
+Node,Anakin Skywalker,been portrayed by,Node,numerous actors
+Node,Anakin Skywalker,was,Node,created
+Node,Anakin Skywalker,been portrayed by,Node,actors
+Node,Anakin Skywalker,been,Node,portrayed
+Node,Anakin Skywalker appearances,span,Node,referenced
+Node,Anakin Skywalker appearances,span,Node,heavily referenced
+Node,Anakin Skywalker appearances,span,Node,referenced in Star Wars
+Node,Anakin Skywalker appearances,span,Node,heavily referenced in Star Wars
+Node,Anakin Skywalker appearances,span,Node,six Star Wars films
+Node,Anakin Skywalker,is,Node,important character
+Node,Anakin Skywalker,is character in,Node,Star Wars
+Node,important character,is in,Node,Star Wars
+Node,Anakin Skywalker,is,Node,character
+Node,Anakin Skywalker,is,Node,also character
+Node,Skywalker,is,Node,important
+Node,Anakin Skywalker,is also character in,Node,Star Wars
+Node,Jedi,falls to,Node,dark side
+Node,Jedi,serves,Node,Galactic Empire
+Node,Jedi,serves Galactic Empire at,Node,hand of Anakin Skywalker Sith master
+Node,Jedi,falls to,Node,dark side of Force
+Node,Jedi,serves,Node,evil Galactic Empire
+Node,Jedi,falls to,Node,side
+Node,Jedi,falls to,Node,side of Force
+Node,Jedi,serves Galactic Empire at,Node,hand
+Node,Jedi,serves Galactic Empire at,Node,right hand
