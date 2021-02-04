@@ -1,0 +1,40 @@
+0	Anakin	1	Skywalker	1
+1	Anakin	1	Skywalker	1
+2	fictional	1	character	1
+3	Anakin	1	Skywalker	1
+4	Anakin	1	Skywalker	1
+5	Anakin	1	Skywalker	1
+6	Anakin	1	Skywalker	1
+7	Anakin	1	Skywalker	1
+8	Anakin	1	Skywalker	1
+9	Anakin	1	Skywalker	1
+10	Anakin	1	Skywalker	1
+11	Anakin	1	Skywalker	1
+12	Anakin	1	Skywalker	1
+13	Anakin	1	Skywalker	1
+14	Anakin	1	Skywalker	1	appearances	1
+15	Anakin	1	Skywalker	1	appearances	1
+16	Anakin	1	Skywalker	1	appearances	1
+17	Anakin	1	Skywalker	1	appearances	1
+18	Anakin	1	Skywalker	1	appearances	1
+19	Anakin	1	Skywalker	1
+20	Anakin	1	Skywalker	1
+21	important	1	character	1
+22	Anakin	1	Skywalker	1
+23	Anakin	1	Skywalker	1
+24	Skywalker	1
+25	Anakin	1	Skywalker	1
+26	Jedi	1
+27	Jedi	1
+28	Jedi	1
+29	Jedi	1
+30	Jedi	1
+31	Jedi	1
+32	Jedi	1
+33	Jedi	1
+34	Jedi	1
+35	fictional	1	character	1
+36	important	1	character	1
+37	character	1
+38	also	1	character	1
+39	hand	1	of	1	Anakin	1	Skywalker	1	Sith	1	master	1

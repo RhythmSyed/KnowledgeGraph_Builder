@@ -1,0 +1,3 @@
+Skywalker	1.098612
+character	1.098612
+Jedi	1.098612

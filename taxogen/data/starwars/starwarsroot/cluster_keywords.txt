@@ -1,0 +1,3 @@
+0	Skywalker
+1	Jedi
+2	character
