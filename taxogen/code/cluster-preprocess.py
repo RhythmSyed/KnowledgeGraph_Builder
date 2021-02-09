@@ -136,7 +136,7 @@ def main(raw_dir, input_dir, init_dir):
 
 if __name__ == '__main__':
     corpusName = sys.argv[1]
-    raw_dir = './data/' + corpusName + '/raw/'
-    input_dir = './data/' + corpusName + '/input/'
-    init_dir = './data/' + corpusName + '/init/'
+    raw_dir = corpusName + '/raw/'
+    input_dir = corpusName + '/input/'
+    init_dir = corpusName + '/init/'
     main(raw_dir, input_dir, init_dir)

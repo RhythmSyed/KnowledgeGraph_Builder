@@ -114,7 +114,7 @@ def recur(input_dir, node_dir, n_cluster, parent, n_cluster_iter, filter_thre,
               filter_thre, n_expand, level + 1, caseolap, local_embedding)
 
 
-def main(opt, corpusName):
+def main(opt):
     input_dir = opt['input_dir']
     init_dir = opt['data_dir'] + 'init/'
     n_cluster = opt['n_cluster']
@@ -125,7 +125,7 @@ def main(opt, corpusName):
 
     # our method
     print(opt['data_dir'])
-    root_dir = opt['data_dir'] + corpusName + 'root/'
+    root_dir = opt['data_dir'] + 'root/'
     print(init_dir)
     print(root_dir)
     copy_tree(init_dir, root_dir)
@@ -153,4 +153,4 @@ if __name__ == '__main__':
     # opt = load_sp_params()
     corpusName = sys.argv[1]
     opt = load_dblp_params_method(sys.argv[1])
-    main(opt, corpusName)
+    main(opt)

@@ -66,9 +66,9 @@ def get_reidx_file(text, cand_f, o_file):
 
 if __name__ == '__main__':
     corpusName = sys.argv[1]
-    papers_file = './data/' + corpusName + '/input/papers.txt'
-    keywords_file = './data/' + corpusName + '/input/keywords.txt'
-    index_file = './data/' + corpusName + '/input/index.txt'
+    papers_file = corpusName + '/input/papers.txt'
+    keywords_file = corpusName + '/input/keywords.txt'
+    index_file = corpusName + '/input/index.txt'
 
     get_reidx_file(papers_file, keywords_file, index_file)
 

@@ -102,7 +102,7 @@ def load_sp_params():
 
 def load_dblp_params_method(corpusName):
     pd = dict()
-    pd['data_dir'] = f'./data/{corpusName}/'
+    pd['data_dir'] = corpusName
     pd['doc_file'] = pd['data_dir'] + 'input/papers.txt'
     pd['doc_keyword_cnt_file'] = pd['data_dir'] + 'input/keyword_cnt.txt'
     pd['input_dir'] = pd['data_dir'] + 'input/'
